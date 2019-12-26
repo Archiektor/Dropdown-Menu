@@ -1,0 +1,24 @@
+body {
+    background: #5ecbfa;
+}
+
+div {
+    background: #75fa8c;
+}
+
+button {
+    background: #d8aeff;
+
+}
+
+.focused {
+    background: #6f0f07;
+}
+
+.d-none {
+    display: none;
+}
+
+.dropdown-item {
+    cursor: pointer;
+}
